@@ -6,7 +6,7 @@
 - Develop and design egg incubator system monitoring dashboard with the Thinger.IO as IoT Platform
 
 # Planning Documentation
-- **Flowchrt System**
+- **Flowchart System**
 
 ![Flowchart Sistem Inkubator_Dokumen Perancangan](https://github.com/hanifanhilmana/EggIncubator_SmartLivestock/assets/100675291/944a8a47-39c9-4b38-adc1-502b08b5b7b1)
 
